@@ -6,6 +6,7 @@
   "name": "nzbtracker",
   "version": "1.0.0",
   "dependencies": {
+    "@jc21/nzbget-jsonrpc-api": "^1.0.0",
     "newznab-feedparser": "^2.0.2",
     "regenerator-runtime": "^0.13.2"
   },
